@@ -20,6 +20,13 @@
       "description": "المصحف المرتل",
       "image": "https://via.placeholder.com/150",
       "base_url": "https://server11.mp3quran.net/sds"
+    },
+    {
+      "id": "reciter_1773340548440",
+      "name": "تست",
+      "description": "تست",
+      "image": "https://github.com/settings/personal-access-tokens/new",
+      "base_url": "https://github.com/settings/personal-access-tokens/new"
     }
   ]
 }
