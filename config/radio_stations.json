@@ -1,0 +1,20 @@
+{
+  "stations": [
+    {
+      "id": "quran_kareem",
+      "name": "إذاعة القرآن الكريم",
+      "description": "البث المباشر من القاهرة",
+      "stream_url": "https://n0a.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABfZ-7mKkAilGR6JhU-KcHLQ",
+      "image": "https://via.placeholder.com/150",
+      "country": "مصر"
+    },
+    {
+      "id": "makkah",
+      "name": "إذاعة القرآن الكريم من مكة",
+      "description": "البث المباشر من مكة المكرمة",
+      "stream_url": "https://Qurango.net/radio/tarateel",
+      "image": "https://via.placeholder.com/150",
+      "country": "السعودية"
+    }
+  ]
+}

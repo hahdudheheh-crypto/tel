@@ -1,0 +1,32 @@
+{
+  "reciters": [
+    {
+      "id": "abdulbasit",
+      "name": "عبد الباسط عبد الصمد",
+      "description": "المصحف المرتل",
+      "image": "https://via.placeholder.com/150",
+      "base_url": "https://server8.mp3quran.net/abd_basit/Rewayat-Hafs-A-n-Assem"
+    },
+    {
+      "id": "mishary",
+      "name": "مشاري راشد العفاسي",
+      "description": "المصحف المرتل",
+      "image": "https://via.placeholder.com/150",
+      "base_url": "https://server8.mp3quran.net/afs"
+    },
+    {
+      "id": "sudais",
+      "name": "عبد الرحمن السديس",
+      "description": "المصحف المرتل",
+      "image": "https://via.placeholder.com/150",
+      "base_url": "https://server11.mp3quran.net/sds"
+    },
+    {
+      "id": "husary",
+      "name": "محمود خليل الحصري",
+      "description": "المصحف المرتل",
+      "image": "https://via.placeholder.com/150",
+      "base_url": "https://server8.mp3quran.net/husary"
+    }
+  ]
+}
