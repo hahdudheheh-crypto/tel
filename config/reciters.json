@@ -20,13 +20,6 @@
       "description": "المصحف المرتل",
       "image": "https://via.placeholder.com/150",
       "base_url": "https://server11.mp3quran.net/sds"
-    },
-    {
-      "id": "husary",
-      "name": "محمود خليل الحصري",
-      "description": "المصحف المرتل",
-      "image": "https://via.placeholder.com/150",
-      "base_url": "https://server8.mp3quran.net/husary"
     }
   ]
 }
