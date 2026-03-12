@@ -71,14 +71,6 @@
       "stream_url": "http://live.mp3quran.net:9702/",
       "image": "https://via.placeholder.com/150",
       "country": "عام"
-    },
-    {
-      "id": "mp3quran_9718",
-      "name": "إذاعة MP3 Quran 2",
-      "description": "تلاوات قرآنية مباشرة",
-      "stream_url": "http://live.mp3quran.net:9718/",
-      "image": "https://via.placeholder.com/150",
-      "country": "عام"
     }
   ]
 }
