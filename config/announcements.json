@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "title": "إعلان مهم",
+  "message": "رمضان كريم! نتمنى لكم شهراً مباركاً",
+  "action_text": "المزيد",
+  "action_url": "",
+  "show_once": true,
+  "priority": "normal"
+}
