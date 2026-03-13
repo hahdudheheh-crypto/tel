@@ -63,6 +63,14 @@
       "stream_url": "https://backup.qurango.net/radio/albaqarah",
       "image": "https://via.placeholder.com/150",
       "country": "عام"
+    },
+    {
+      "id": "station_1773366061782",
+      "name": "س",
+      "description": "س",
+      "country": "سس",
+      "image": "https://backup.qurango.net/radio/mix",
+      "stream_url": "https://backup.qurango.net/radio/mix"
     }
   ]
 }
