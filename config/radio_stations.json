@@ -63,14 +63,6 @@
       "stream_url": "https://backup.qurango.net/radio/albaqarah",
       "image": "https://via.placeholder.com/150",
       "country": "عام"
-    },
-    {
-      "id": "mp3quran_9702",
-      "name": "إذاعة MP3 Quran 1",
-      "description": "تلاوات قرآنية متنوعة",
-      "stream_url": "http://live.mp3quran.net:9702/",
-      "image": "https://via.placeholder.com/150",
-      "country": "عام"
     }
   ]
 }
